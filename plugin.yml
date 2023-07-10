@@ -1,0 +1,10 @@
+name: Disguise
+api: 5.0.0
+author: zqlaGODD
+version: 0.1
+
+permissions:
+  disguise.command:
+    default: op
+    description: 'Test Permission'
+    
